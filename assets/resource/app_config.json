@@ -1,0 +1,5 @@
+{
+  "appVersion": "0.0.1",
+  "appName": "Universities App",
+  "urlJsonUniversities": "https://tyba-assets.s3.amazonaws.com/FE-Engineer-test/universities.json"
+}
